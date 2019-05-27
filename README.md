@@ -13,10 +13,3 @@ Trained a CNN model on the MNIST dataset, using tensorflow as backend and implme
   c. <b>Display</b> an image<br>
   d. <b>Draw</b> an image by gesture<br>
 6. User interaction is handled using <b>PyGtk 3.0</b>.<br>
-
-<h2>Contributors - </h2>
-1. Bhaskar Pardeshi<br>
-2. Vishal Pathare<br>
-3. Atharva Lohangade<br>
-4. Atharva Mundada<br>
-5. Ruturaj Malawade<br>
